@@ -1,0 +1,40 @@
+2025-03-06 10:15:13,161 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:15:13,529 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:15:13,532 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:15:15,342 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:16:18,188 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:16:18,635 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:16:18,639 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:16:20,505 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:21:49,726 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution started
+2025-03-06 10:21:49,938 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:21:50,330 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:21:50,334 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:21:51,936 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:21:51,938 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution completed..
+2025-03-06 10:40:32,341 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution started
+2025-03-06 10:40:32,512 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:40:32,908 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:40:32,913 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:40:35,050 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:40:35,053 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution completed..
+2025-03-06 10:43:37,892 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution started
+2025-03-06 10:43:38,047 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:43:38,442 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:43:38,448 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:43:40,010 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:45:40,799 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution started
+2025-03-06 10:45:40,961 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:45:41,344 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:45:41,349 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:45:42,995 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:49:52,302 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution started
+2025-03-06 10:49:52,495 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:49:52,897 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:49:52,901 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:49:55,042 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message
+2025-03-06 10:50:40,329 [main] INFO  testCases.TC_001_Accountregistrationtest - test case TC_001_Accountregistrationtest execution started
+2025-03-06 10:50:40,503 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on myaccount link
+2025-03-06 10:50:40,899 [main] INFO  testCases.TC_001_Accountregistrationtest - clicked on register account link
+2025-03-06 10:50:40,902 [main] INFO  testCases.TC_001_Accountregistrationtest - passing the information to the required fields
+2025-03-06 10:50:42,653 [main] INFO  testCases.TC_001_Accountregistrationtest - validating the account registration successfull message

@@ -1,0 +1,12 @@
+C:\javaselenium2024\opencartv001\src\test\java\pageObjects\Basepage.java
+C:\javaselenium2024\opencartv001\src\test\java\pageObjects\Homepage.java
+C:\javaselenium2024\opencartv001\src\test\java\pageObjects\Loginpage.java
+C:\javaselenium2024\opencartv001\src\test\java\pageObjects\Myaccount_page.java
+C:\javaselenium2024\opencartv001\src\test\java\pageObjects\Registerpage.java
+C:\javaselenium2024\opencartv001\src\test\java\testBase\Baseclass.java
+C:\javaselenium2024\opencartv001\src\test\java\testCases\TC_001_Accountregistrationtest.java
+C:\javaselenium2024\opencartv001\src\test\java\testCases\TC_002_LoginTest.java
+C:\javaselenium2024\opencartv001\src\test\java\testCases\TC_003_LoginDDT.java
+C:\javaselenium2024\opencartv001\src\test\java\utilities\Dataproviders.java
+C:\javaselenium2024\opencartv001\src\test\java\utilities\Excelutility.java
+C:\javaselenium2024\opencartv001\src\test\java\utilities\Extent_Report_Manager.java
